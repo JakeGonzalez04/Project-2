@@ -1,2 +1,4 @@
-# Project-2
- Working in Project 2
+# About Jake 
+- Jake Gonzalez
+- 15 years old
+- Sophmore at BHS
