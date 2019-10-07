@@ -14,12 +14,11 @@ Im an only child, so that means I have spent most of my time with parents. Even 
 
 # Skills
 
-I'm not really "skillfull" at anything but I'm good at certain thing
+I'm not really "skillfull" at anything but I'm good at certain things
 
 - I can play the guitar.
 - I have decent grades
-- I can learn someting quickly
-- I'm good at any game I touch
+- I learn quickly
 
 # Hobbies
 
@@ -28,3 +27,11 @@ I'm not really "skillfull" at anything but I'm good at certain thing
 - I like to play video-games
 - I like cars 
 
+# Favorites
+
+- Favorite sport is Soccer
+- Favorite music Band [Cage The Elephant](https://www.cagetheelephant.com/home/)
+- Favorite song [Halo Cage The Elephant](https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs?autoplay=true&v=T)
+- Favorite game [The WItcher 3](https://www.amazon.com/Witcher-3-Wild-Hunt-PC/dp/B00WTI3SGO)
+- Favorite anime [Gintama](https://www.crunchyroll.com/gintama)
+- Dream Car Dodge Demon
