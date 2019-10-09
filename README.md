@@ -35,4 +35,4 @@ I'm not really "skillfull" at anything but I'm good at certain things
 - Favorite game [The WItcher 3](https://www.amazon.com/Witcher-3-Wild-Hunt-PC/dp/B00WTI3SGO)
 - Favorite anime [Gintama](https://www.crunchyroll.com/gintama)
 - Favorite car Dodge Demon
-- ![DodgeDemon](./dodgedemon.jpg)
+ ![DodgeDemon](./dodgedemon.jpg)
